@@ -584,7 +584,6 @@ img {
 .checkbox:checked + .checkbox-icon {
   background-color: var(--accent-color);
   background-image: url("../images/check.svg");
-  background-size: contain;
   background-repeat: no-repeat;
   background-origin: border-box;
   border-color: var(--accent-color);
